@@ -8,4 +8,4 @@
 * **Georgi Rusev** - *exercise [1](https://github.com/iccaka/Technical-University-of-Sofia-USP_Group-Project/tree/main/exercise%201) & [4](https://github.com/iccaka/Technical-University-of-Sofia-USP_Group-Project/tree/main/exercise%204)* - [Georgi200031](https://github.com/Georgi200031)
 * **Matej Kostov** - *exercise [3](https://github.com/iccaka/Technical-University-of-Sofia-USP_Group-Project/tree/main/exercise%203) & [6](https://github.com/iccaka/Technical-University-of-Sofia-USP_Group-Project/tree/main/exercise%206)* - [matejjj27](https://github.com/matejjj27)
 
-See also the list of [contributors]() who participated in this project.
+See also the list of [contributors](https://github.com/iccaka/Technical-University-of-Sofia-USP_Group-Project/graphs/contributors) who participated in this project.
